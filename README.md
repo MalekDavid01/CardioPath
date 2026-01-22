@@ -88,7 +88,8 @@ The project will be considered successful if:
 ---
 
 ## Expected / Anticipated Architecture
-<img width="960" height="720" alt="Context Diagram" src="https://github.com/user-attachments/assets/a90987a6-e97a-43d2-b5b1-e5f62b091a5d" />
+<img width="960" height="720" alt="Context Diagram (1)" src="https://github.com/user-attachments/assets/ca7fa04d-c2fe-4b11-8534-ada47c28ec72" />
+
 
 ### Referral Intake
 Uses existing referral methods such as fax, Ocean, or manual EMR entry.
